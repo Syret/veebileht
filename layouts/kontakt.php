@@ -17,6 +17,7 @@
       </ul>
 </nav>      
 </header>
+<body>
   <form name="contactform" method="post" action="mailto:kart.syret@khk.ee">
  
 <table width="450px">
@@ -114,4 +115,5 @@
 </table>
  
 </form>
+</body>
 </html>
