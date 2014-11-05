@@ -15,17 +15,19 @@
 </head>
 <header>
 <div class="navbar">
-			<ul>
-				<a href="index.html"><li>Avaleht</li></a>
-				<a href="#"><li>Tehtud tööd</li></a>
-				<a href="#"><li>Minust</li></a>
-				<a href="#"><li>Plaatimisest</li></a>
-				<a href="#"><li>Hinnakiri</li></a>
-				<a href="kontakt.html"><li>Kontakt</li></a>
-			</ul>
-</div>			
+      <ul>
+        <a href="index.html"><li>Avaleht</li></a>
+        <a href="#"><li>Tehtud tööd</li></a>
+        <a href="#"><li>Minust</li></a>
+        <a href="#"><li>Plaatimisest</li></a>
+        <a href="#"><li>Hinnakiri</li></a>
+        <a href="kontakt.html"><li>Kontakt</li></a>
+      </ul>
+</div>      
 </header>
 <body>
+			
+	<h1>Avaleht</h1>
 	<!--	<div class="bx-wrapper">
 	<div class="slider">
 		<ul class="bxslider">

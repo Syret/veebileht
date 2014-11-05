@@ -3,21 +3,21 @@
 <head>
   <title>Ruudi Plaatimine</title>
   <meta charset="UTF-8"/>
-  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <link rel="stylesheet" type="text/css" href="../stylesheets/style.css"/>
 </head>
 <header>
-<div class="navbar">
+<nav>
       <ul>
-        <a href="index.html"><li>Avaleht</li></a>
+        <a href="index.php"><li>Avaleht</li></a>
         <a href="#"><li>Tehtud tööd</li></a>
         <a href="#"><li>Minust</li></a>
         <a href="#"><li>Plaatimisest</li></a>
         <a href="#"><li>Hinnakiri</li></a>
-        <a href="kontakt.html"><li>Kontakt</li></a>
+        <a href="kontakt.php"><li>Kontakt</li></a>
       </ul>
-</div>      
+</nav>      
 </header>
-  <form name="contactform" method="post" action="send_form_email.php">
+  <form name="contactform" method="post" action="mailto:kart.syret@khk.ee">
  
 <table width="450px">
  
@@ -105,7 +105,7 @@
  
  <td colspan="2" style="text-align:center">
  
-  <input type="submit" value="Submit">   <a href="http://www.freecontactform.com/email_form.php">Email Form</a>
+  <input type="submit" value="Submit"> 
  
  </td>
  
