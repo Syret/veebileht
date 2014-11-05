@@ -37,3 +37,9 @@ img.gallery:hover{
 	padding: 0px;
 	margin-left: 50px;
 }
+.slider{
+	width: 1100px;
+	height: 400px;
+	overflow: hidden;
+	position: relative;
+}
