@@ -20,6 +20,7 @@
 </nav>      
 </header>		
 	<h1>Minust</h1>
-
+	<img src="../images/man.jpg">
+	<p class="about">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras cursus sagittis nisi ut tempus. Proin erat nunc, ultricies sit amet rutrum vel, maximus et odio. Suspendisse potenti. In sit amet facilisis dolor. Duis ut risus dui. Pellentesque pharetra augue vel risus vulputate, vel auctor urna viverra.</p>
 </body>
 </html>

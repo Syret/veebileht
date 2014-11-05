@@ -9,10 +9,10 @@
 <nav>
       <ul>
         <a href="index.php"><li>Avaleht</li></a>
-        <a href="#"><li>Tehtud tööd</li></a>
-        <a href="#"><li>Minust</li></a>
-        <a href="#"><li>Plaatimisest</li></a>
-        <a href="#"><li>Hinnakiri</li></a>
+        <a href="tood.php"><li>Tehtud tööd</li></a>
+        <a href="minust.php"><li>Minust</li></a>
+        <a href="plaatimisest.php"><li>Plaatimisest</li></a>
+        <a href="hinnakiri.php"><li>Hinnakiri</li></a>
         <a href="kontakt.php"><li>Kontakt</li></a>
       </ul>
 </nav>      

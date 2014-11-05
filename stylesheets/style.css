@@ -17,22 +17,23 @@ nav li{
 #slider{
 	overflow: hidden;
 }
-
+p.about{
+	width: 50%;
+	display: inline-block;
+}
 #bxslider img{
 	float: left;
 }
-table, th, td{
-	border: solid 1px #000;
-	border-collapse: collapse;
-}
+
 th, td{
 	padding: 5px;
 }
 img.gallery{
 	height: 150px;
-	padding: 50px;
+	padding: 0px 100px;
 }
 img.gallery:hover{
-	height: 200px;
+	height: 250px;
 	padding: 0px;
+	margin-left: 50px;
 }
