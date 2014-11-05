@@ -18,6 +18,13 @@
       </ul>
 </nav>      
 </header>
-<h1>Tehtud tööd</h1>	
+<h1>Tehtud tööd</h1>
+<img class="gallery" src="../images/1.jpg">
+<img class="gallery" src="../images/2.jpg">
+<img class="gallery" src="../images/3.jpg">
+<img class="gallery" src="../images/4.jpg">
+<img class="gallery" src="../images/5.jpg">
+<img class="gallery" src="../images/6.jpg">
+<img class="gallery" src="../images/7.jpg">
 </body>
 </html>

@@ -6,6 +6,7 @@ header{
 	width: 100%;
 	margin-bottom: 20px;
 }
+
 nav li{
 	display: inline-block;
 	text-decoration: none;
@@ -19,4 +20,19 @@ nav li{
 
 #bxslider img{
 	float: left;
+}
+table, th, td{
+	border: solid 1px #000;
+	border-collapse: collapse;
+}
+th, td{
+	padding: 5px;
+}
+img.gallery{
+	height: 150px;
+	padding: 50px;
+}
+img.gallery:hover{
+	height: 200px;
+	padding: 0px;
 }
