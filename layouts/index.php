@@ -37,6 +37,6 @@
 	</div>
 </div> 
 <h1>Avaleht</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dolor ex, aliquam pharetra tristique sed, finibus vel mauris. Aenean vel augue id sapien iaculis pretium.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dolor ex, aliquam pharetra tristique sed, finibus vel mauris.</p>
 </body>
 </html>
