@@ -1,17 +1,17 @@
+body{
+    text-decoration: none;
+}
 header{
 	background-color: #000;
-	
 	top: 0px;
 	left: 0px;
 	width: 100%;
 	margin-bottom: 20px;
 }
 
-nav li{
+#site-header li{
 	display: inline-block;
-	text-decoration: none;
 	color: white;
-	
 	padding: 5px;
 }
 #slider{

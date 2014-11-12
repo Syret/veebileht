@@ -1,3 +1,4 @@
+<?php include "../components/site-data.php"; ?>
 <header id="site-header">
 <nav class="menu-main">
     <ul class="menu">

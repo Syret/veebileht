@@ -15,18 +15,7 @@
 </head>
 
 <body>
-<header>
-<nav>
-      <ul>
-        <a href="index.php"><li>Avaleht</li></a>
-        <a href="tood.php"><li>Tehtud tööd</li></a>
-        <a href="minust.php"><li>Minust</li></a>
-        <a href="plaatimisest.php"><li>Plaatimisest</li></a>
-        <a href="hinnakiri.php"><li>Hinnakiri</li></a>
-        <a href="kontakt.php"><li>Kontakt</li></a>
-      </ul>
-</nav>      
-</header>		
+<?php include "../components/site-header.php"; ?>
 <div class="bx-wrapper">
 	<div class="slider">
 		<ul class="bxslider">
