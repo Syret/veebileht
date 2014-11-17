@@ -16,7 +16,8 @@
 
 <body>
 <?php include "../components/site-header.php"; ?>
-<div class="bx-wrapper">
+<div class="container">
+</div><div class="bx-wrapper">
 	<div class="slider">
 		<ul class="bxslider">
 		<li id="1"><img src="../images/1.jpg"></li>
@@ -27,5 +28,6 @@
 </div> 
 <h1>Avaleht</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dolor ex, aliquam pharetra tristique sed, finibus vel mauris.</p>
+</div>
 </body>
 </html>
